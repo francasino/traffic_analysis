@@ -10,9 +10,9 @@ Based on the information of the article and having enough samples of each type, 
 Note that some information is hardcoded, so you will need to edit and check them to ensure that the work properly. Please follow the instructions below:
 
 
-#INSTRUCTIONS
+# INSTRUCTIONS
 
-##STEP 1
+## STEP 1
 
 >1 make a backup of the original db files, since there may be undesired deletions
  
@@ -30,7 +30,7 @@ Note that some information is hardcoded, so you will need to edit and check them
 
 Execute them. Now we have the all the files in folders separated by type and (enc and comp). 
 
-##STEP 2
+## STEP 2
 
 
 This will clean the files in the DB, selecting only a predefined amount. This will conform the final dataset. 

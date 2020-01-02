@@ -2,6 +2,10 @@
 A set of methods to enable traffic classification using randomness tests. We also add an automated database creation algorithm.
 Temporary cleaning the code to be updated. 
 
+Added database creation
+Added randomness tests
+Lacks evaluator (gamma-modified levels from 0.1 to 2, as in the original paper). 
+
 
 The code can be used if cited properly:
 

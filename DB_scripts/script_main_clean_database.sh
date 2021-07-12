@@ -15,7 +15,7 @@ lenghts=( "524288" ) # # 65536, 131072, 262144, 524288, 1048576,.. "65536" "3276
   do
         for lth in ${lenghts[@]}
   	do
-  		./split_and_delete_step3.sh $ft $lth 
+  		./split_and_delete_step.sh $ft $lth 
 	done
 
   done
